@@ -23,7 +23,7 @@ Doctorate in Electrical Engineering from the Bauru Engineering Faculty, FEB - UN
 
 Scholarship holder of the Institutional Capability Program, PCI-DA, of the Renato Archer Information Technology Center, 2022 to 2024, Campinas - SP.
 
-I’m currently working on 5G Mobile Communications and IoT Sustems.
+I’m currently working on 5G Mobile Communications and IoT Systems.
 
 My recent books:
 
